@@ -1,1 +1,1 @@
-# schrodinger-week
+# Schrodinger Week Public Website
