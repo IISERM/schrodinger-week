@@ -15,5 +15,9 @@ Phi@I presents to you our annual TEE DESIGN CONTEST where you can submit a cool,
 
 4. The last date for submission is 21st August 2020 12 midnight.
 
-## Submission
-This time the jury for the competition will be the students of IISER Mohali. Yes, you read it right. We'll put up all the designs we would get  online, and people will vote for their favourite designs. The design which gets the most votes would be declared the winner.
+## Submission and Grading
+This time the jury for the competition will be the students of IISER Mohali. 
+
+**Yes, you read it right!**
+
+We'll put up all the designs we would get online, and people will vote for their favourite designs. The design which gets the most votes would be declared the winner.
