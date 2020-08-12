@@ -23,10 +23,19 @@ The winner just doesn't just have a chance to get featured on the official Phi@I
 
 ## Grading
 
-This time the jury for the competition will be the students of IISER Mohali. We'll upload all the designs we would get on the portal, so that people can vote for their favourite designs.
+This time the jury for the competition will be the students of IISER Mohali. We'll upload all the designs we would get on a voting portal, so that people can vote for their favourite designs.
 
 **Yes, you read it right!**
 
 Going according to democratic principles, the design which gets the most votes would be declared the winner.
 
 So get ready and get creative!
+
+## Co-ordinators
+For any other details contact,
+
+Aabhas- 9818032178
+
+Gowri - 8592960737
+
+Akash - 8005137855
