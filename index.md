@@ -15,7 +15,7 @@ We also have events on themes of _Science meets Art_, which will run throughout 
 
 And that all too with cash prizes worth Rs 5000!
 
-We kick it off on **Monday(17th August)** by a webinar by **Dr.Roland** from the _Max-Planck Institute, Germany_.
+We kick it off on **Monday(17th August)** by a webinar by **Dr.Rulands** from the _Max-Planck Institute, Germany_.
 
 We hope you all enjoy it!
 
