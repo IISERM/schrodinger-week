@@ -1,7 +1,5 @@
 # GALACTIQUEST - THE SPACE ADVENTURE
 
-{Introduction to the Story}
-
 We know that some people may not have a stable internet connection, so the whole game is offline. You can however use the internet to solve the clues!
 
 The event starts at 6pm on Saturday 23rd August. Play time should be around 3 hours. Those who cannot make it on that day can also play it at any later time, but will obviously miss the prizes (WORTH 1200!)  

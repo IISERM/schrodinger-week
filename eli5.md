@@ -1,6 +1,6 @@
 # Explain Like I'm 5
 
-## Downloading...
+Downloading...
 
 ## Coordinators
 

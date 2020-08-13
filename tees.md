@@ -1,6 +1,6 @@
 # TEE DESIGN CONTEST
 
-![tee-design-poster](Tee_Design_Poster.png)
+![tee-design-poster](Tee_Design_Poster.png){:height="36px" width="36px"}
 
 
 Phi@I presents to you our annual TEE DESIGN CONTEST.
@@ -20,14 +20,15 @@ The winner just doesn't just have a chance to get featured on the official Phi@I
 
 4. The last date for submission is 21st August 2020, 12 midnight.
 
+## Where to submit?
+
+You have to submit your designs to our official IISER Mail ID, phyclub@iisermohali.ac.in or phyclubiiserm@gmail.com as an attached file, with your name and IISER ID. In case of issues, you can contact the undersigned.
 
 ## Grading
 
 This time the jury for the competition will be the students of IISER Mohali. We'll upload all the designs we would get on a voting portal, so that people can vote for their favourite designs.
 
-**Yes, you read it right!**
-
-Going according to democratic principles, the design which gets the most votes would be declared the winner.
+Following democratic principles, the design which gets the most votes would be declared the winner.
 
 So get ready and get creative!
 
