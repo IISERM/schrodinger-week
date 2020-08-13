@@ -29,6 +29,6 @@ We hope you all enjoy it!
 | ELI5                 | Wed - Thursday, 19th - 20th August | -             | 700          | [/eli5](eli5)                       |
 | Particle in a Box    | Friday, 21st August                | 4pm - 8 pm    | 700          | [/piab](piab)                       |
 | Treasure Hunt        | Saturday, 22nd August              | 6pm onwards   | 1200         | [/thunt](thunt)                     |
-| Meme Making          | 21st August (Final Date)           | 11:59 pm      | 300          | [/meme](meme)                       |
+| Meme Making          | 21st August (Final Date)           | 11:59 pm      | 300          | [/meme](memes)                      |
 | Tee Shirt Designing  | 21st August (Final Date)           | 11:59 pm      | Free T-Shirt | [/tees](tees)                       |
 | Frame It!            | Visit Website                      | Visit Website | 300 * 2      | [/frame-it](frame-it)               |
