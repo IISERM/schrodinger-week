@@ -6,9 +6,14 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 table {
     display: block;
     overflow-x: auto;
+}
+p, ul, ol, table, pre, dl {
+    font-size: 16px;
+}
+h2 {
+    font-size: 28px;
 }
