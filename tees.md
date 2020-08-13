@@ -1,6 +1,6 @@
 # TEE DESIGN CONTEST
 
-![tee-design-poster](Tee_Design_Poster.png){:height="36px" width="36px"}
+![tee-design-poster](Tee_Design_Poster.png)
 
 
 Phi@I presents to you our annual TEE DESIGN CONTEST.
