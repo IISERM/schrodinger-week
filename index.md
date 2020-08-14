@@ -1,4 +1,4 @@
-## Hello, Scions of Newton!
+# Hello, Scions of Newton!
 
 We're back through the double slit, and we're keeping our annual promise!
 
