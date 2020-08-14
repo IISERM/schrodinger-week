@@ -2,7 +2,7 @@
 
 ![particle-in-a-box-poster](particle-in-a-box.png)
 
-Are you you someone who enjoys playing physics games or solving physics puzzles?
+Are you someone who enjoys playing physics games or solving physics puzzles?
 
 Now you've got a chance to show your skills, and even win exciting prizes along the way.
 

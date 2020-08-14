@@ -1,6 +1,6 @@
 # Frame it!
 
-**φ@I** is joining hands with **Lumière** to bring you a new photography competition.
+**Φ@I** is joining hands with **Lumière** to bring you a new photography competition.
 
 _And yes, this is no usual endeavor. We're spicing things up in this true blend of creativity and science_.
 
@@ -28,7 +28,7 @@ _And yes, this is no usual endeavor. We're spicing things up in this true blend 
 
 1. Each participant is allowed to send multiple entries but only one entry per category. It is not compulsory to send a photo per category for consideration in the competition.
 2. A description of the photo is compulsory.
-3. Send your entries to phiclubiiserm@gmail.com. Please mention the category of the photo in the subject of the mail.
+3. Send your entries to [phiclubiiserm@gmail.com](mailto:phiclubiiserm@gmail.com). Please mention the category of the photo in the subject of the mail.
 4. Top 2 photos will get a cash prize worth ₹300 each.
 5. The photos related to physics will hold an advantage over other photos.
 
