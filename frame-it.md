@@ -1,6 +1,6 @@
 # Frame it!
 
-![frameit](Frame%20it!.jpg)
+![frameit](frame-it.jpg)
 
 **Φ@I** is joining hands with **Lumière** to bring you a new photography competition.
 

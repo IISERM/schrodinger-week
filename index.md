@@ -1,14 +1,16 @@
 # Hello, Scions of Newton!
 
-We're back through the double slit, and we're keeping our annual promise!
+We're back, and we're keeping our annual promise!
 
 ![s-week](Schrodinger_Week.jpg)
 
-It wouldn't be wrong to say that we all resemble close to the particle in a box now, oscillating at the lowest node (yep, your bed). Φ@I with the active support of other clubs has attempted to bring down the large potential walls around you to ensure your safe tunneling to the world of fun just to unleash your potential and an opportunity to prove how big a physics geek you are!
+It wouldn't be wrong to say that we all resemble close to the particle in a box now, oscillating at the lowest node (yep, your bed).
+
+Φ@I with the active support of Turing and Lumiere has attempted to bring down the large potential walls around you to ensure your safe tunneling to the world of fun just to unleash your potential and an opportunity to prove how big a physics geek you are!
 
 Providing a safe haven in such precarious times, Φ@I surely presents Schrodinger week 2020. With a new avatar as a completely online event, it comes with a promise of delivering fun and challenging activities that will surely test your mettle!
 
-So choose your favorable dimension and make sure you have your creativity operator set against our challenge Hamiltonian!
+So choose your favourite dimension and make sure you have your creation operator set against our challenge Hamiltonian!
 
 This year we still have the old classics, Hackathon - **Code The Matrix**, and a Virtual Treasure Hunt(inspired by Turing Club) **GalactiQuest- A Space Adventure**, but this year, we've also tried to come up with new and original online events, **Explain Like I am Five** and **Particle In A Box**.
 
