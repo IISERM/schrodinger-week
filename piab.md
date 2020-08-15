@@ -1,6 +1,6 @@
 # Particle in a box
 
-![particle-in-a-box-poster](particle-in-a-box.png)
+![particle-in-a-box-poster](particle-in-a-box-2.png)
 
 Are you someone who enjoys playing physics games or solving physics puzzles?
 
