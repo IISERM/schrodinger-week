@@ -1,5 +1,7 @@
 # Frame it!
 
+![frameit](Frame it!.jpg)
+
 **Φ@I** is joining hands with **Lumière** to bring you a new photography competition.
 
 _And yes, this is no usual endeavor. We're spicing things up in this true blend of creativity and science_.
@@ -40,3 +42,4 @@ _And yes, this is no usual endeavor. We're spicing things up in this true blend 
 
 7. All the photos will be posted on the official Instagram Page of Lumière (@lumiere.iiserm)
 8. Anyone is allowed to participate. Plagiarism is strictly prohibited.
+
