@@ -1,6 +1,6 @@
 # Frame it!
 
-![frameit](Frame it!.jpg)
+![frameit](Frame%20it!.jpg)
 
 **Φ@I** is joining hands with **Lumière** to bring you a new photography competition.
 
@@ -35,10 +35,10 @@ _And yes, this is no usual endeavor. We're spicing things up in this true blend 
 5. The photos related to physics will hold an advantage over other photos.
 
 6. **The deadlines for submissions are as follows:**
-  a) Astro: *17th August 20:00*
-  b) General: *19th August 20:00*
-  c) People and Science: *21st August 20:00*
-  d) Computer generated media: *22nd August 20:00*
+    1. Astro: *17th August 20:00*
+    2. General: *19th August 20:00*
+    3. People and Science: *21st August 20:00*
+    4. Computer generated media: *22nd August 20:00*
 
 7. All the photos will be posted on the official Instagram Page of Lumière (@lumiere.iiserm)
 8. Anyone is allowed to participate. Plagiarism is strictly prohibited.
