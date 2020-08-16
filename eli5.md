@@ -34,7 +34,7 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 
 ## Text Editor
 
-![Editor](https://splasho.com/upgoer5)
+**[Editor](https://splasho.com/upgoer5)
 
 Let your imagination run wild!
 
