@@ -1,16 +1,6 @@
 
 # Explain Like I am Five
 
-## Monday challenge!
-
-*Nobel Prize Improvise*
-
-You have to select the Nobel prize 2019 winning research topic in any subject of your choice and explain it like I am 5.
-
-You can take any field of your choice (not necessarily physics)
-
-You have to send the original writeup and your improvised write in a .txt/.pdf version to phiclubiiserm@gmail.com
-
 ![ELI5poster](ELI5.png)
 
 ## The Event
@@ -30,7 +20,7 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 
 ## Rules
 
-1. You would get a challenge on Monday, Wednesday and Friday of the Week, keep an eye on the website for challenges.
+1. You would get a challenge on Monday, Wednesday and Friday of the Week, keep an eye on the website for challenges. Monday challenge has been posted below.
 
 2. You have to submit a write up in the topic of your interest along with the actual topic that you are trying to explain.
 
@@ -43,6 +33,16 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 6. You can submit entries from all three categories till 22nd August 11:59 P.M!
 
 Let your imagination run wild!
+
+## Monday Challenge
+
+*Nobel Prize Improvise*
+
+You have to select the Nobel prize 2019 winning research topic in any subject of your choice and explain it like I am 5.
+
+You can take any field of your choice (not necessarily physics)
+
+You have to send the original writeup and your improvised write in a .txt/.pdf version to phiclubiiserm@gmail.com
 
 ## Prizes
 Every challenge has a prize worth 250 bucks waiting for you to grab!
