@@ -26,7 +26,7 @@ This is an event where you have to explain fancy topics  using 1000 most commonl
 
 The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which Randall Munroe explains a rocket using the same concept.
 
-![up_goer](https://imgs.xkcd.com/comics/up_goer_five.png)
+[![up_goer](https://imgs.xkcd.com/comics/up_goer_five.png)](https://imgs.xkcd.com/comics/up_goer_five.png)
 
 ## Rules
 
