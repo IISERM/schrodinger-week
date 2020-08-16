@@ -1,3 +1,5 @@
+# List of 1000 most common words
+
 a
 able
 about
