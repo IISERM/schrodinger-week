@@ -28,6 +28,13 @@ Following democratic principles, the design which gets the most votes would be d
 
 So get ready and get creative!
 
+## Sample Submission
+You have to submit your design like this sample
+![tee-design-poster](sample_without_template.png)
+
+We'll put your design in the voting portal like this!
+![tee-design-poster](sample_with_template.png)
+
 ## Coordinators
 
 For any other details contact,
