@@ -33,7 +33,7 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 6. You can submit entries from all three categories till 22nd August 11:59 P.M!
 
 ## Text Editor
-![1000 most commonly used words -Text Editor](https://splasho.com/upgoer5/)
+![1000-most-commonly-used-words-Editor](https://splasho.com/upgoer5/)
 
 Let your imagination run wild!
 
