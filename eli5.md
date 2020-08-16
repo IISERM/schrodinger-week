@@ -35,7 +35,7 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 ## Text Editor
 
 **[Editor](https://splasho.com/upgoer5)**
-**[1000-Most-Common-Words](/1000words)**
+**[1000-Most-Common-Words](/schrodinger-week/1000words)**
 
 Let your imagination run wild!
 
