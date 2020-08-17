@@ -13,6 +13,8 @@ Statistical physics of living systems: from molecules to ecosystems
 Date - 17th August 2020
 Time - 5 P.M IST
 
+**Join us at** [https://youtu.be/c5jlWQl2AXw](https://youtu.be/c5jlWQl2AXw)
+
 ## Abstract
 
 Biological systems rely on an influx of energy from the environment to build complex spatio-temporal structures. Striking examples are the self-organisation of cells into complex organs during embryonic development or the formation of ecosystems involving thousands of species. In this talk, the speaker will show how methods from theoretical physics can shed light on the mechanistic principles underlying biological phenomena and how, vice versa, biological phenomena give rise to new challenges at the frontier of theoretical physics. The speaker will illustrate these points by showing how social insects control stochastic fluctuations in order to simultaneously achieve social specialisation and plasticity.
