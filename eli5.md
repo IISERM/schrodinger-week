@@ -36,6 +36,8 @@ The event is inspired by one of our favorite xkcd comics, UP GOER FIVE in which 
 
 **[The-Up-goer-five-Text Editor](https://splasho.com/upgoer5)**
 
+Also check the HINTS and Sample Write-ups at the top right of the above link.
+
 **[1000-Most-Common-Words](/schrodinger-week/1000words)**
 
 Let your imagination run wild!
