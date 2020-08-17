@@ -48,9 +48,10 @@ You have to select the Nobel prize 2019 winning research topic in any subject of
 
 You can take any field of your choice (not necessarily physics)
 
-You have to send the original writeup and your improvised write in a .txt/.pdf version to phiclubiiserm@gmail.com
+You have to send the original writeup and your improvised write in a .txt/.pdf/.doc version to phiclubiiserm@gmail.com
 
 ## Prizes
+You will be judged on the creativity and clarity of the idea you're trying to explain. 
 Every challenge has a prize worth 250 bucks waiting for you to grab!
 
 ## Coordinators
