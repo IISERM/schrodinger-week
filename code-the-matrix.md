@@ -98,6 +98,7 @@ Of course, to make things "easier", there are wormholes which can take you from 
 Print the order of visiting celestial bodies. Supreme Commander understands that this is not easy, and so, ve (vis preferred pronoun) has allowed you to use the networkx module (and equivalent in other languages, docs for python [here](https://networkx.github.io/documentation/stable/install.html)). Using the module is not a necessity, but some semblance to a graph must be made.
 
 List of Bodies -
+
 | Name      | x         | y       | z       |
 | --------- | --------- | ------- | ------- |
 | Planet 0  | 0.0       | 0.0     | 0.0     |
