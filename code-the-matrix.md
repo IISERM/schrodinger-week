@@ -85,7 +85,7 @@ initial_position = numpy.array([numpy.random.random(2)*4-2 for _ in range(num_pa
 
 An animation I created for the same values but with $$10^6$$ `steps`-
 
-<video src="ctm/file.mp4"></video>
+<video src="ctm/file.mp4" controls></video>
 
 ## Objective 3 - No Shortcuts in Life - 20+20, +5 for optimization
 
