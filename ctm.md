@@ -32,7 +32,7 @@ Obviously, due to budget constraints (strange, how despite being the most import
 
 **You need to tell Headquarters how many combinations of cylinders are there, which can give exactly the necessary amount of fuel.**
 
-*Hint:* The number of ways to fuel for 4$N=n+m$$ liters is the number of ways to fuel for $n$ liters times the number of ways to fuel for $m$ liters. **The order DOES NOT matter.** `[1, 2] == [2, 1]`
+*Hint:* The number of ways to fuel for $$N=n+m$$ liters is the number of ways to fuel for $n$ liters times the number of ways to fuel for $m$ liters. **The order DOES NOT matter.** `[1, 2] == [2, 1]`
 
 ```none
 [In]
