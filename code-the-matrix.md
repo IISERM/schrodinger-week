@@ -131,7 +131,7 @@ If you verify that the message is in fact sent by the Headquarters, then convert
 
 1. Take every 6 characters in the _2-num_ format, and calculate the number in _10-num_ format.
 
-$$(abcde)_{2-num} = (a*2^5 + b*2^4 + c*2^3 + d*2^2 + e*2^1 + f*2^0)_{10-num}$$
+$$(abcdef)_{2-num} = (a*2^5 + b*2^4 + c*2^3 + d*2^2 + e*2^1 + f*2^0)_{10-num}$$
 
 2. Take the _10-num_ and use the below table to convert it into normal text.
 
