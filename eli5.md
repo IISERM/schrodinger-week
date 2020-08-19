@@ -52,8 +52,27 @@ You can take any field of your choice (not necessarily physics)
 
 You have to send the original writeup and your improvised write in a .txt/.pdf/.doc version to phiclubiiserm@gmail.com
 
+As it all started from Randell Munroe's description of Saturn V as up goer 5, we continue to legacy with our second challenge
+
+## Wednesday Challenge
+
+*The Next Einstein*
+
+Here are 2 pictures of one of the most popular topics in physics.
+Black holes and LIGO
+You take these two pictures and instead of the given labeling, Change it to eli5 version
+
+How to send
+For black hole image
+Write the original labeling along with your description of it
+For LIGO write the number given in the flow chart and your description along with it.
+
+You have to label both images for your entry to be considered.
+
+You have to send your improvised write in a .txt/.pdf/.doc version to phiclubiiserm@gmail.com
+
 ## Prizes
-You will be judged on the creativity and clarity of the idea you're trying to explain. 
+You will be judged on the creativity and clarity of the idea you're trying to explain.
 Every challenge has a prize worth 250 bucks waiting for you to grab!
 
 ## Coordinators
