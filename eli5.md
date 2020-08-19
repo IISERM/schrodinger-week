@@ -62,12 +62,20 @@ Here are 2 pictures of one of the most popular topics in physics.
 Black holes and LIGO
 You take these two pictures and instead of the given labeling, Change it to eli5 version
 
-How to send
-For black hole image
-Write the original labeling along with your description of it
-For LIGO write the number given in the flow chart and your description along with it.
+
+For black hole image :
+Write the original labeling along with your description of it.
+
+For LIGO Image, write the number given in the flow chart and your description along with it.
 
 You have to label both images for your entry to be considered.
+
+### Black Hole image
+[Black-Hole](eli5bh.jpg)
+
+### LIGO image
+[LIGO](eli5LIGO.jpg)
+
 
 You have to send your improvised write in a .txt/.pdf/.doc version to phiclubiiserm@gmail.com
 
