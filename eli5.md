@@ -79,6 +79,18 @@ You have to label both images for your entry to be considered.
 
 You have to send your improvised write in a .txt/.pdf/.doc version to phiclubiiserm@gmail.com
 
+## Friday Challenge
+
+So far it was us telling you what to do. Now you tell us!
+
+*As a last and final challenge for eli5 we ask you to go wild!.* 
+
+Take any topic of your choice from any subject, be it a scientific paper, confusing science topic or even a YouTube video for that matter and explain it in eli5 version
+Send us your original piece, used along with your write-up (upto 1000 words) in pdf,.txt,.doc format to phiclubiiserm@gmail.com
+
+
+Last date of submission from any challenge-23rd August
+
 ## Prizes
 You will be judged on the creativity and clarity of the idea you're trying to explain.
 Every challenge has a prize worth 250 bucks waiting for you to grab!
