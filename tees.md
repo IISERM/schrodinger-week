@@ -14,7 +14,7 @@ The winner just doesn't just have a chance to get featured on the official Φ@I 
 1. You have to submit your design as a PNG/TIF file and your design must have a resolution of atleast 300ppi.
 2. Make sure that the design doesn't have any translucent elements.
 3. Make sure that the design is original. Any evidence of plagiarism will automatically lead to disqualification.
-4. The last date for submission is 21st August 2020, 12 midnight.
+4. The last date for submission is 23rd August 2020, till 12 midnight.
 
 ## Where to submit?
 
