@@ -17,7 +17,7 @@ You have to submit your designs to our official IISER Mail ID, [phyclub@iisermoh
 
 1. You have to submit your design as a PNG/JPEG file. Please keep a good resolution in your submissions.
 2. Make sure that the meme is original. Any evidence of plagiarism will lead to disqualification.
-3. The last date for submission is 21st August 2020, 12 midnight.
+3. The last date for submission is 23rd August 2020, till 12 midnight.
 4. Avoid memes that can be offensive to people or to a group of people.
 
 ## Grading
