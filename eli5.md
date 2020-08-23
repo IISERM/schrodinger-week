@@ -89,7 +89,7 @@ Take any topic of your choice from any subject, be it a scientific paper, confus
 Send us your original piece, used along with your write-up (upto 1000 words) in pdf,.txt,.doc format to phiclubiiserm@gmail.com
 
 
-Last date of submission from any challenge-23rd August 11.59 AM
+Last date of submission from any challenge-23rd August 11.59 PM
 
 ## Prizes
 You will be judged on the creativity and clarity of the idea you're trying to explain.
