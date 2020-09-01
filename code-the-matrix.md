@@ -1,6 +1,6 @@
 # Welcome to Code the Matrix!
 
-Discussion and Results can be found [here](/ctm-results)
+Discussion and Results can be found [here](ctm-results)
 
 ![hton-poster](hthon-poster.jpeg)
 
