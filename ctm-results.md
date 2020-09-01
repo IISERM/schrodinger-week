@@ -21,8 +21,8 @@ This is the common Delivery Problem, and is a problem in graph theory. It is fur
 The first part is a Context Free Grammar.
 
 - L => A
-- A => 0A | 0B | 0
-- B => 11A | 11
+- A => 0A \| 0B \| 0
+- B => 11A \| 11
 
 This can be implemented with a Push Down Automaton. (Take IDC 204 if you are interested)
 
