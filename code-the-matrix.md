@@ -1,5 +1,7 @@
 # Welcome to Code the Matrix!
 
+Discussion and Results can be found [here](/ctm-results)
+
 ![hton-poster](hthon-poster.jpeg)
 
 ## A hackathon with a twist!
