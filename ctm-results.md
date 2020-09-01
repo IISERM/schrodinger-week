@@ -10,7 +10,7 @@ It seems as if 2 groups have copied from this website, one successfully, one uns
 
 ### Obj 2
 
-The method of solving has practically been laid out. You can see my implementation in Julia (legible to anyone who knows python) [here](ctm/obj2.jl). 2 groups have almost got it right, 1 completed it. This is a Monte Carlo simulation. For further understanding of many kinds of simulations, use [this coursera course](https://www.coursera.org/learn/modeling-simulation-natural-processes) on Simulation and modeling of natural processes.
+The method of solving has practically been laid out. You can see my implementation in Julia (legible to anyone who knows python) [here](ctm/obj2). 2 groups have almost got it right, 1 completed it. This is a Monte Carlo simulation. For further understanding of many kinds of simulations, use [this coursera course](https://www.coursera.org/learn/modeling-simulation-natural-processes) on Simulation and modeling of natural processes.
 
 ### Obj 3
 
@@ -32,11 +32,11 @@ The second part is a basic encoding mechanism. Commonly used are ascii and unico
 
 ### Obj 5
 
-This is a common way to solve a double differential equation. You can see my implementation in Julia [here](ctm/obj5.jl). Try extending to 3d, and also use the Barnes Hut optimization. More details in the Simulation and modeling of natural processes [Coursera course](https://www.coursera.org/learn/modeling-simulation-natural-processes).
+This is a common way to solve a double differential equation. You can see my implementation in Julia [here](ctm/obj5). Try extending to 3d, and also use the Barnes Hut optimization. More details in the Simulation and modeling of natural processes [Coursera course](https://www.coursera.org/learn/modeling-simulation-natural-processes).
 
 ### Obj 6
 
-This was rather straightforward, but some groups misunderstood the question. See my implementation [here](ctm/obj6.jl).
+This was rather straightforward, but some groups misunderstood the question. See my implementation [here](ctm/obj6).
 
 ## Results and Code
 

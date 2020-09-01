@@ -1,3 +1,4 @@
+```julia
 using Plots
 
 function acceleration(pos_this, pos_that, mass_that)
@@ -38,3 +39,4 @@ function simulate(positions::Array, velocities::Array, masses::Array, dt::Float6
     return current()
 end
 savefig(simulate([[1.,0.], [-1.,0.], [0.,0.]], 1.556 * [[0.,1.], [0.,-1.], [0.001,0.]], [1., 1., 1.], 0.01, 1000.), "obj5.png")
+```

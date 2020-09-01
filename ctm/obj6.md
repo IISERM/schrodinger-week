@@ -1,3 +1,4 @@
+```julia
 function simulate(path::AbstractString, miss_prob::Float64)
     pos::Complex = 0+0im
     dir::Complex = 1im
@@ -17,3 +18,4 @@ path = strip(read(open("path", "r"), String))
 
 l = [simulate(path, 0.45) for _ in 1:150]
 sum(abs.( l .- simulate(path, 0.)))/150
+```

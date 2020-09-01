@@ -1,3 +1,4 @@
+```julia
 using Makie
 using LinearAlgebra
 import Random.seed!
@@ -49,3 +50,4 @@ pos1 = 2 * (rand(25, 3) * 2 .+9);
 pos2 = 2 * (rand(25, 3) * 2 .-11);
 pos = vcat(pos1, pos2)
 simulate(pos, 30, 50, 0.2, 1000, 1e5)
+```
